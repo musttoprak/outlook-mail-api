@@ -22,3 +22,6 @@ Bu proje, hem IMAP mail API'sini hem de Microsoft API'sini kullanarak belirli bi
    ```bash
    [git clone https://github.com/your-username/mail-api-example.git]
    cd outlook-mail-api
+2. **Kurulum yapmayı unutmayın:**
+  ```bash
+   composer install
